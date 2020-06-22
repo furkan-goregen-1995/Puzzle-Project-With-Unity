@@ -1,0 +1,1264 @@
+fileFormatVersion: 2
+guid: b7ce86665be7a252d95f7d1237e23fde
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Malias PNGler 1_0
+    21300002: Malias PNGler 1_1
+    21300004: Malias PNGler 1_2
+    21300006: Malias PNGler 1_3
+    21300008: Malias PNGler 1_4
+    21300010: Malias PNGler 1_5
+    21300012: Malias PNGler 1_6
+    21300014: Malias PNGler 1_7
+    21300016: Malias PNGler 1_8
+    21300018: Malias PNGler 1_9
+    21300020: Malias PNGler 1_10
+    21300022: Malias PNGler 1_11
+    21300024: Malias PNGler 1_12
+    21300026: Malias PNGler 1_13
+    21300028: Malias PNGler 1_14
+    21300030: Malias PNGler 1_15
+    21300032: Malias PNGler 1_16
+    21300034: Malias PNGler 1_17
+    21300036: Malias PNGler 1_18
+    21300038: Malias PNGler 1_19
+    21300040: Malias PNGler 1_20
+    21300042: Malias PNGler 1_21
+    21300044: Malias PNGler 1_22
+    21300046: Malias PNGler 1_23
+    21300048: Malias PNGler 1_24
+    21300050: Malias PNGler 1_25
+    21300052: Malias PNGler 1_26
+    21300054: Malias PNGler 1_27
+    21300056: Malias PNGler 1_28
+    21300058: Malias PNGler 1_29
+    21300060: Malias PNGler 1_30
+    21300062: Malias PNGler 1_31
+    21300064: Malias PNGler 1_32
+    21300066: Malias PNGler 1_33
+    21300068: Malias PNGler 1_34
+    21300070: Malias PNGler 1_35
+    21300072: Malias PNGler 1_36
+    21300074: Malias PNGler 1_37
+    21300076: Malias PNGler 1_38
+    21300078: Malias PNGler 1_39
+    21300080: Malias PNGler 1_40
+    21300082: Malias PNGler 1_41
+    21300084: Malias PNGler 1_42
+    21300086: Malias PNGler 1_43
+    21300088: Malias PNGler 1_44
+    21300090: Malias PNGler 1_45
+    21300092: Malias PNGler 1_46
+    21300094: Malias PNGler 1_47
+    21300096: Malias PNGler 1_48
+    21300098: Malias PNGler 1_49
+    21300100: Malias PNGler 1_50
+    21300102: Malias PNGler 1_51
+    21300104: Malias PNGler 1_52
+    21300106: Malias PNGler 1_53
+    21300108: Malias PNGler 1_54
+    21300110: Malias PNGler 1_55
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  IsReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Malias PNGler 1_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1577
+        width: 1130
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804e42a4dbf718fb8a1a9356133d1e29
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_1
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 18
+        width: 804
+        height: 2010
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1688ffa15904b4bb94cd3ea26783f7
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1274
+        width: 1108
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5669203ca5325ac84a6313d8ec884013
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_3
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1196
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5318266e051d8734d8d4ef7448ff9a25
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_4
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1197
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7b030aac007452a85b6609d5d2e2d8
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_5
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1215
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed6588a06969d5b4b452b01ab7da0ce
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 886
+        width: 878
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced136f690bef8118be0e13962ca3192
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_7
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1171
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59858ee52e721503e968b535f026d97e
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_8
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1171
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992adabf934ea724e97f89dc8797911c
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_9
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1173
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2b6375b5fc8f2cd96f4d8c6048c02c
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_10
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1113
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dcd40285c5bc4228426cb48c5bc4de
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_11
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1103
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958a723a9f9007dd1a0cce7a1a3c68f2
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_12
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1020
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863cd71bf7b2f1ce591113d299443b43
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_13
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1022
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7aa8b693d3bde7e8035cbd3603cf57
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_14
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1061
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc077b4d12c2ecef8ad55e1e4e8eba8
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_15
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 994
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2597f597e4ea753898f9463359ba6dd4
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_16
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 931
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ed1cfccfc3ad1f99b6356e50ef12e1
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_17
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 984
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26b5dfd1fc48cff2b9fcb2867eec739
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_18
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 969
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd67a61e4c1087c50901e6935d6451d4
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_19
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 957
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d350b7ff73d41936589303a2871f4fdc
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_20
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 945
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617518ae487409302aea3c8a3b5f6d2c
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_21
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 828
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8133f022abcf223a282e3261896fd236
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 659
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e91e83c92729c8eb6aca5856919398
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 660
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a773c1db7d4b502afb96a7244a2a9c30
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_24
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 663
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042e23f5d764e10d09af8b1414caa2f0
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_25
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 795
+        width: 66
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f62c7cd24fdc5eeb8f1236f3813393
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_26
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 773
+        width: 66
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04afd5dea571bb76b97f33b02a4e06aa
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_27
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 654
+        width: 90
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4548de8a4d753571a81fc43853054ae2
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_28
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 654
+        width: 90
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ebfaae7e9bfc765b0dfe3850d16cf8
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_29
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 751
+        width: 66
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a516a081d33e01202b1f78ff275f6104
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_30
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 648
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c4d5b06cf41de8f853b1e4b14e159b
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_31
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 646
+        width: 112
+        height: 78
+      alignment: 9
+      pivot: {x: 0.46843392, y: 0.5453296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e59885695822c5096700bc7d2274df
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 552
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febed2fe9adcb67a2ab971f6d8d528ba
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 545
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189a07b23cf2f82dbb0729101bb2548b
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_34
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 548
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991a7d617b56d8db599cc0f2667758eb
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_35
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 549
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642d5f5129da383c6949a8a866cf12f1
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_36
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 537
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a7df4a61cbcca7dbdb834a057aae4b
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_37
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 549
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7d98bfac8eab4e5b2780583a599346
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_38
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 549
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5278b1df1c2772eeb17a24255c661c8
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_39
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 549
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25fe2e91252265c2b910b2b53fbbfd8
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_40
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 548
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824a59466beca00bc8e274286ab2512d
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_41
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 241
+        width: 1130
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821686b1d8361fdf1b30b7643c8584d3
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 30
+        width: 1030
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f11756b45fae31c8a121d8d25c3e2f
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 107
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516548f1308b08b558b0f564e44697aa
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebb07797a94e69cca477d77c053de61
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_45
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 131
+        width: 73
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d370540c8128cfbd8056737afe4c4c0
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_46
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 128
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052750b8df6ef357fa02e04ba439b5ad
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_47
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 111
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adec6a7d14eee0f7b9a0253adda7e33
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_48
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 111
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff5bfe2e3892b9aea3fde994741a679
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_49
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 104
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdda93639ac4de54a03058aee85e5f6
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_50
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 106
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf4c9adc4684e224a34c1b0183f8169
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_51
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 118
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cb2cea1599218a49aeef1415d9b201
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_52
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 107
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d813bba5e4c75791923f412c32e2cd6
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_53
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da148e5e0d8dd77e94e85f2bc031f55
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_54
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 127
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00acddb288783f0bc9df3685339e8c48
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malias PNGler 1_55
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 751
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f101d363a2da42b2aa31ef78a52a851b
+      vertices: []
+      Indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 28c09dcca7c107ab4bf679423ad53605
+    vertices: []
+    Indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
