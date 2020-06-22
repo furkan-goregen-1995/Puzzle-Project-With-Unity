@@ -6,6 +6,7 @@ public class Buttons : MonoBehaviour
 {
     SpriteRenderer spriteRenderer;
     SaveLoadScript save;
+    public GameObject GridBackround;
     GridManager gridManager;
 
     Vector2 columnvector;
@@ -15,8 +16,7 @@ public class Buttons : MonoBehaviour
     {
         columnvector = new Vector2(0.005f, 0);
         rowvector = new Vector2(0, 0.008f);
-        GameObject file = GameObject.Find("Circle");
-        spriteRenderer = file.GetComponent<SpriteRenderer>();
+        spriteRenderer = GridBackround.GetComponent<SpriteRenderer>();
         gridManager = GetComponent<GridManager>();
         save = GetComponent<SaveLoadScript>();
     }

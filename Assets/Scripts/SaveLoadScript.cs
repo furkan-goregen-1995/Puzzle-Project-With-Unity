@@ -5,9 +5,8 @@ using UnityEngine;
 
 public class SaveLoadScript : MonoBehaviour
 {
-    Grids data;
+    CircleData data;
 
-    string path = "/home/work/PuzzleProjects/Assets/Resources/Files/";
     private string file = "save.txt";
 
     GridManager man;
@@ -17,10 +16,10 @@ public class SaveLoadScript : MonoBehaviour
     {
       
         man = GetComponent<GridManager>();
-        foreach (GameObject obj in man.tiles)
+        foreach (GameObject obj in man.circles)
         {
-            data = GetComponent<Grids>();
-            data.gridname = obj.name;
+            data = GetComponent<CircleData>();
+            data.circlename = obj.name;
             data.color = obj.GetComponent<Renderer>().material.color;
             string json = JsonUtility.ToJson(data);
             WriteToFile(json);
@@ -30,7 +29,7 @@ public class SaveLoadScript : MonoBehaviour
     //Write To File
     void WriteToFile(string json)
     {
-        StreamWriter writer = new StreamWriter(@path + file,true);
+        StreamWriter writer = new StreamWriter( Application.persistentDataPath + "/" + file,true);
         Debug.Log(json);
         writer.WriteLine(json);
         writer.Close();

@@ -8,6 +8,7 @@ public class ColorChange : MonoBehaviour
     RaycastHit hit;
 
     GameObject currentHit;
+    public Button button;
 
 
     void Update()
@@ -23,7 +24,6 @@ public class ColorChange : MonoBehaviour
     //Change Grid Color
     void ChangeGridColor()
     {
-        Button button = GameObject.Find("ChangeButtonColor").GetComponent<Button>();
 
         if (Physics.Raycast(Camera.main.ScreenPointToRay(Input.mousePosition), out hit))
         {

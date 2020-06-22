@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class GridManager : MonoBehaviour
 {
+    public GameObject circle;
     public int rows = 3;
     public int cols = 3;
     public float tileSize = 1;
@@ -15,7 +16,7 @@ public class GridManager : MonoBehaviour
     private Vector2 cellSize;
     private Vector2 cellScale;
 
-    public GameObject[] tiles;
+    public GameObject[] circles;
 
 
     
@@ -30,8 +31,8 @@ public class GridManager : MonoBehaviour
     {
         DestroyGrid();
         int i = 0;
-        tiles = new GameObject[rows*cols];
-        var referenceTile = (GameObject)Instantiate(Resources.Load("Grid"));
+        circles = new GameObject[rows*cols];
+        var referenceTile = Instantiate(circle);
         Vector2 newCellSize = new Vector2(gridSize.x / (float)cols, gridSize.y / (float)rows);
         cellScale.x = newCellSize.x / cellSize.x;
         cellScale.y = newCellSize.y / cellSize.y;
@@ -44,9 +45,9 @@ public class GridManager : MonoBehaviour
             for (int col = 0; col < cols; col++)
             {
                 Vector2 pos = new Vector2(col * cellSize.x + gridOffset.x + transform.position.x + cols - 1, row * cellSize.y + gridOffset.y + transform.position.y - rows + 1);
-                tiles[i] = Instantiate(referenceTile, pos, Quaternion.identity) as GameObject;
-                tiles[i].transform.parent = transform;
-                tiles[i].name = "Grid" + (i + 1);
+                circles[i] = Instantiate(referenceTile, pos, Quaternion.identity) as GameObject;
+                circles[i].transform.parent = transform;
+                circles[i].name = "Circle" + (i + 1);
                 i++;
             }
         }
@@ -65,7 +66,7 @@ public class GridManager : MonoBehaviour
         {
             for (int col = 0; col < cols; col++)
             {
-                Destroy(GameObject.Find("Grid" + (j + 1)));
+                Destroy(GameObject.Find("Circle" + (j + 1)));
                 j++;
             }
         }

@@ -55,11 +55,10 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Buttons.cs" />
      <Compile Include="Assets\Scripts\ChangeButtonColor.cs" />
+     <Compile Include="Assets\Scripts\CircleData.cs" />
      <Compile Include="Assets\Scripts\ColorChange.cs" />
      <Compile Include="Assets\Scripts\GridManager.cs" />
-     <Compile Include="Assets\Scripts\Grids.cs" />
      <Compile Include="Assets\Scripts\SaveLoadScript.cs" />
-     <None Include="Assets\Resources\Files\save.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>/home/work/PuzzleProjects/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
